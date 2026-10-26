@@ -1,0 +1,20 @@
+2026-10-25T22:17:56-05:00 localhost.localdomain sshd-session[5055]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.134  user=soclab
+2026-10-25T22:17:58-05:00 localhost.localdomain sshd-session[5055]: Failed password for soclab from 192.168.137.134 port 42928 ssh2
+2026-10-25T22:17:59-05:00 localhost.localdomain sshd-session[5055]: Connection closed by authenticating user soclab 192.168.137.134 port 42928 [preauth]
+2026-10-25T22:18:55-05:00 localhost.localdomain sshd-session[5058]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.134  user=soclab
+2026-10-25T22:18:57-05:00 localhost.localdomain sshd-session[5058]: Failed password for soclab from 192.168.137.134 port 44782 ssh2
+2026-10-25T22:18:58-05:00 localhost.localdomain sshd-session[5058]: Connection closed by authenticating user soclab 192.168.137.134 port 44782 [preauth]
+2026-10-25T22:19:04-05:00 localhost.localdomain sshd-session[5061]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.134  user=soclab
+2026-10-25T22:19:06-05:00 localhost.localdomain sshd-session[5061]: Failed password for soclab from 192.168.137.134 port 53914 ssh2
+2026-10-25T22:19:06-05:00 localhost.localdomain sshd-session[5061]: Connection closed by authenticating user soclab 192.168.137.134 port 53914 [preauth]
+2026-10-25T22:19:16-05:00 localhost.localdomain sshd-session[5065]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.134  user=soclab
+2026-10-25T22:19:17-05:00 localhost.localdomain sshd-session[5065]: Failed password for soclab from 192.168.137.134 port 35516 ssh2
+2026-10-25T22:19:18-05:00 localhost.localdomain sshd-session[5065]: Connection closed by authenticating user soclab 192.168.137.134 port 35516 [preauth]
+2026-10-25T22:19:23-05:00 localhost.localdomain sshd-session[5068]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.134  user=soclab
+2026-10-25T22:19:25-05:00 localhost.localdomain sshd-session[5068]: Failed password for soclab from 192.168.137.134 port 50632 ssh2
+2026-10-25T22:19:26-05:00 localhost.localdomain sshd-session[5068]: Connection closed by authenticating user soclab 192.168.137.134 port 50632 [preauth]
+2026-10-25T22:19:35-05:00 localhost.localdomain sshd-session[5072]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.137.134  user=soclab
+2026-10-25T22:19:38-05:00 localhost.localdomain sshd-session[5072]: Failed password for soclab from 192.168.137.134 port 59798 ssh2
+2026-10-25T22:19:39-05:00 localhost.localdomain sshd-session[5072]: Connection closed by authenticating user soclab 192.168.137.134 port 59798 [preauth]
+2026-10-25T22:20:11-05:00 localhost.localdomain sshd-session[5075]: Accepted password for soclab from 192.168.137.134 port 34032 ssh2
+2026-10-25T22:20:11-05:00 localhost.localdomain sshd-session[5075]: pam_unix(sshd:session): session opened for user soclab(uid=1001) by soclab(uid=0)
