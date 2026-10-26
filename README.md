@@ -119,3 +119,36 @@ This screenshot documents a repeat demonstration performed on October 26,
 2026. It is supplementary material, not a screenshot of the October 25
 events in the investigation timeline. The October 25 server-side log
 remains the primary evidence for that timeline.
+
+## Visual Lab Walkthrough
+
+These screenshots illustrate the setup, connectivity checks, and
+authentication-testing workflow across multiple lab sessions. They are
+supporting demonstrations, not a single chronological record of the
+October 25 investigation.
+
+The exported server-side log and its timeline remain the primary evidence
+for that investigation.
+
+### Network and SSH Setup
+
+[View network and SSH setup](screenshots/SSH_SetupAndIPCheck.png)
+
+### Initial SSH Access from Kali
+
+[View initial SSH access](screenshots/SSH_KaliInitialAccess.png)
+
+### Preliminary Password Check
+
+[View the preliminary password check](screenshots/SSH_InitialPWCheck.png)
+
+### Project Folders and Files
+
+[View the project folder structure](screenshots/SSH_LabSetup_FoldersandFiles.png)
+
+### Additional Password-Attempt Demonstration
+
+[View the additional password-attempt demonstration](screenshots/ssh_password_attempts.png)
+
+The October 26 repeat demonstration is linked in the Supplemental
+Screenshot section above.
