@@ -110,3 +110,12 @@ export. It does not independently authenticate the source logs.
 - Evidence export and checksum verification
 - Investigation reporting with explicit limitations
 EOF
+
+## Supplemental Screenshot
+
+[View the Kali SSH password-attempt demonstration](screenshots/SSH_KaliPasswordAttempts.png)
+
+This screenshot documents a repeat demonstration performed on October 26,
+2026. It is supplementary material, not a screenshot of the October 25
+events in the investigation timeline. The October 25 server-side log
+remains the primary evidence for that timeline.
