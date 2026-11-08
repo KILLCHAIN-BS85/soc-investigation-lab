@@ -128,3 +128,32 @@ Store screenshots in this lab's screenshots directory when available and embed t
 [Complete after execution. Explain what the evidence established, what changed, and what remains untested.]
 
 [Lab index and naming guide](../README.md)
+
+## Uploaded terminal screenshots
+
+The following terminal captures document the activity. Interpret results using the commands and output visible in each image.
+
+### Victim: web-server misconfiguration
+
+![Victim: web-server misconfiguration](screenshots/01-victim-misconfiguration.png)
+
+### Victim: temporary firewall exception
+
+![Victim: temporary firewall exception](screenshots/02-victim-firewall-exception.png)
+
+### Attack: reconnaissance scan
+
+![Attack: reconnaissance scan](screenshots/03-attack-recon.png)
+
+### Attack: document access
+
+![Attack: document access](screenshots/04-attack-document-access.png)
+
+### Victim: access log
+
+![Victim: access log](screenshots/05-victim-access-log.png)
+
+### Victim: firewall exception removal
+
+![Victim: firewall exception removal](screenshots/06-victim-firewall-repair.png)
+
